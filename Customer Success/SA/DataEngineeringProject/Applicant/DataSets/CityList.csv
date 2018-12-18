@@ -1,0 +1,1001 @@
+Name,CountryCode,Population
+Mazar-e-Sharif,AFG,127800
+Haag,NLD,440900
+Groningen,NLD,172701
+Nijmegen,NLD,152463
+Arnhem,NLD,138020
+Amersfoort,NLD,126270
+Haarlemmermeer,NLD,110722
+Zwolle,NLD,105819
+Alkmaar,NLD,92713
+Alger,DZA,2168000
+Batna,DZA,183377
+Skikda,DZA,128747
+Mostaganem,DZA,115212
+BÃ©char,DZA,107311
+Tafuna,ASM,5200
+Luanda,AGO,2022000
+Namibe,AGO,118200
+"Saint JohnÂ´s",ATG,24000
+al-Ayn,ARE,225970
+"La Matanza",ARG,1266461
+Quilmes,ARG,559249
+"Mar del Plata",ARG,512880
+"General San MartÃ­n",ARG,422542
+"Santa FÃ©",ARG,353063
+"Florencio Varela",ARG,315432
+"Malvinas Argentinas",ARG,290335
+"San Miguel",ARG,248700
+Resistencia,ARG,229212
+Posadas,ARG,201273
+"San Salvador de Jujuy",ARG,178748
+"San Fernando",ARG,153036
+"La Rioja",ARG,138117
+Mendoza,ARG,123027
+Escobar,ARG,116675
+Ezeiza,ARG,99578
+Yerevan,ARM,1248700
+Sydney,AUS,3276207
+Perth,AUS,1096829
+Newcastle,AUS,270324
+Hobart,AUS,126118
+Baku,AZE,1787800
+MingÃ¤Ã§evir,AZE,93900
+Chittagong,BGD,1392860
+Narayanganj,BGD,202134
+Tungi,BGD,168702
+Nawabganj,BGD,130577
+Brahmanbaria,BGD,109032
+Pabna,BGD,103277
+Saidpur,BGD,96777
+Antwerpen,BEL,446525
+"Bruxelles [Brussel]",BEL,133859
+Namur,BEL,105419
+Cotonou,BEN,536827
+Parakou,BEN,103577
+"Santa Cruz de la Sierra",BOL,935361
+Cochabamba,BOL,482800
+Tarija,BOL,125255
+Zenica,BIH,96027
+"Rio de Janeiro",BRA,5598953
+Fortaleza,BRA,2097757
+"Porto Alegre",BRA,1314032
+Guarulhos,BRA,1095874
+"Nova IguaÃ§u",BRA,862225
+"Duque de Caxias",BRA,746758
+Osasco,BRA,659604
+"JoÃ£o Pessoa",BRA,584029
+UberlÃ¢ndia,BRA,487222
+Sorocaba,BRA,466823
+Aracaju,BRA,445555
+Joinville,BRA,428011
+"Campos dos Goytacazes",BRA,398418
+Olinda,BRA,354732
+"Moji das Cruzes",BRA,339194
+Piracicaba,BRA,319104
+Bauru,BRA,313670
+Betim,BRA,302108
+"SÃ£o Vicente",BRA,286848
+AnÃ¡polis,BRA,282197
+VitÃ³ria,BRA,270626
+"Foz do IguaÃ§u",BRA,259425
+Uberaba,BRA,249225
+Blumenau,BRA,244379
+"Novo Hamburgo",BRA,239940
+Cascavel,BRA,237510
+TaubatÃ©,BRA,229130
+Embu,BRA,222223
+Barueri,BRA,208426
+Juazeiro,BRA,201073
+MagÃ©,BRA,196147
+MarÃ­lia,BRA,188691
+DivinÃ³polis,BRA,185047
+Itabuna,BRA,182148
+Americana,BRA,177409
+ItaboraÃ­,BRA,173977
+AraÃ§atuba,BRA,169303
+MarabÃ¡,BRA,167795
+Dourados,BRA,164716
+MaracanaÃº,BRA,162022
+"Cachoeiro de Itapemirim",BRA,155024
+"Cabo de Santo Agostinho",BRA,149964
+ChapecÃ³,BRA,144158
+"Ferraz de Vasconcelos",BRA,139283
+"SÃ£o Caetano do Sul",BRA,133321
+ParnaÃ­ba,BRA,129756
+Castanhal,BRA,127634
+Uruguaiana,BRA,126305
+LuziÃ¢nia,BRA,125597
+Moji-GuaÃ§u,BRA,123782
+BagÃ©,BRA,120793
+Itapetininga,BRA,119391
+Queimados,BRA,115020
+"VitÃ³ria de Santo AntÃ£o",BRA,113595
+JaÃº,BRA,109965
+"Teixeira de Freitas",BRA,108441
+Catanduva,BRA,107761
+Colatina,BRA,107354
+Barretos,BRA,104156
+CodÃ³,BRA,103153
+Itaituba,BRA,101320
+Atibaia,BRA,100356
+Passos,BRA,98570
+Pinhais,BRA,98198
+"Angra dos Reis",BRA,96864
+Ourinhos,BRA,96291
+Birigui,BRA,94685
+Bacabal,BRA,93121
+"Santana do Livramento",BRA,91779
+Patos,BRA,90519
+"Barra do PiraÃ­",BRA,89388
+"Ãguas Lindas de GoiÃ¡s",BRA,89200
+Liverpool,GBR,461000
+Manchester,GBR,430000
+Coventry,GBR,304000
+Belfast,GBR,287500
+Stoke-on-Trent,GBR,252000
+Swansea,GBR,230000
+Dudley,GBR,192171
+Sunderland,GBR,183310
+Walsall,GBR,174739
+Brighton,GBR,156124
+Reading,GBR,148000
+Huddersfield,GBR,143726
+Blackburn,GBR,140000
+Stockport,GBR,132813
+Watford,GBR,113080
+Exeter,GBR,111000
+"Sutton Coldfield",GBR,106001
+Basildon,GBR,100924
+Crawley,GBR,97000
+Rochdale,GBR,94313
+Halifax,GBR,91069
+Maidstone,GBR,90878
+Douglas,GBR,23487
+Sofija,BGR,1122302
+Ruse,BGR,166467
+Sliven,BGR,105530
+Bobo-Dioulasso,BFA,300000
+"George Town",CYM,19600
+ValparaÃ­so,CHL,293800
+"San Bernardo",CHL,241910
+Arica,CHL,189036
+Iquique,CHL,177892
+Osorno,CHL,141468
+Valdivia,CHL,133106
+CuricÃ³,CHL,115766
+"San Pedro de la Paz",CHL,91684
+Djibouti,DJI,383000
+"Santiago de los Caballeros",DOM,365463
+"San Felipe de Puerto Plata",DOM,89423
+Cuenca,ECU,270353
+Ambato,ECU,169612
+Ibarra,ECU,130643
+RÃ­obamba,ECU,123163
+Alexandria,EGY,3328196
+Suez,EGY,417610
+al-Mansura,EGY,369621
+Zagazig,EGY,267351
+"Kafr al-Dawwar",EGY,231978
+"Bani Suwayf",EGY,172032
+"Shibin al-Kawm",EGY,159909
+"Kafr al-Shaykh",EGY,124819
+"Mit Ghamr",EGY,101801
+Jirja,EGY,95400
+Disuq,EGY,91300
+Soyapango,SLV,129800
+Apopa,SLV,88800
+Valencia,ESP,739412
+MÃ¡laga,ESP,530553
+"Palma de Mallorca",ESP,326993
+Vigo,ESP,283670
+Granada,ESP,244767
+"Santa Cruz de Tenerife",ESP,213050
+"Elche [Elx]",ESP,193174
+"Jerez de la Frontera",ESP,182660
+LeganÃ©s,ESP,173163
+Terrassa,ESP,168695
+Albacete,ESP,147527
+AlcorcÃ³n,ESP,142048
+Badajoz,ESP,136613
+"Santa Coloma de Gramenet",ESP,120802
+"Ourense (Orense)",ESP,109120
+Marbella,ESP,101144
+"TorrejÃ³n de Ardoz",ESP,92262
+Johannesburg,ZAF,756653
+Durban,ZAF,566120
+Alberton,ZAF,410102
+Randburg,ZAF,341288
+Vereeniging,ZAF,328535
+Klerksdorp,ZAF,261911
+"East London",ZAF,221047
+Chatsworth,ZAF,189885
+Botshabelo,ZAF,177971
+Germiston,ZAF,164252
+Randfontein,ZAF,120838
+Nigel,ZAF,96734
+"Addis Abeba",ETH,2495000
+Dese,ETH,97314
+Stanley,FLK,1636
+Kalookan,PHL,1177604
+Zamboanga,PHL,601794
+Antipolo,PHL,470866
+ParaÃ±aque,PHL,449811
+Marikina,PHL,391170
+Iloilo,PHL,365820
+Bacoor,PHL,305699
+Mandaluyong,PHL,278474
+Mandaue,PHL,259728
+Cainta,PHL,242511
+"San Fernando",PHL,221857
+"San Pablo",PHL,207927
+Imus,PHL,195482
+"Santa Rosa",PHL,185633
+Mabalacat,PHL,171045
+"Puerto Princesa",PHL,161912
+"San Carlos",PHL,154264
+Valencia,PHL,147924
+Cadiz,PHL,141954
+Naga,PHL,137810
+Marawi,PHL,131090
+Roxas,PHL,126352
+Malaybalay,PHL,123672
+Baliuag,PHL,119675
+Tanauan,PHL,117539
+Sariaya,PHL,114568
+Hagonoy,PHL,111425
+Santiago,PHL,110531
+"San Jose",PHL,108254
+Tabaco,PHL,107166
+Midsayap,PHL,105760
+Dumaguete,PHL,102265
+Kidapawan,PHL,101205
+Malita,PHL,100000
+Bislig,PHL,97860
+Bayambang,PHL,96609
+"Sultan Kudarat",PHL,94861
+Malungon,PHL,93232
+Ligao,PHL,90603
+Serekunda,GMB,102600
+Rustavi,GEO,155400
+Accra,GHA,1070000
+Sekondi-Takoradi,GHA,103653
+Nuuk,GRL,13445
+AgaÃ±a,GUM,1139
+"Villa Nueva",GTM,101295
+Georgetown,GUY,254000
+Delmas,HTI,240429
+"La Ceiba",HND,89200
+Longyearbyen,SJM,1438
+Medan,IDN,1843919
+Semarang,IDN,1104405
+Bekasi,IDN,644300
+Banjarmasin,IDN,482931
+Pontianak,IDN,409632
+Depok,IDN,365200
+Mataram,IDN,306600
+Bogor,IDN,285114
+Kediri,IDN,253760
+Cilacap,IDN,206900
+Ciomas,IDN,187400
+Bengkulu,IDN,146439
+Pasuruan,IDN,134019
+"Percut Sei Tuan",IDN,129000
+"Pangkal Pinang",IDN,124000
+Serang,IDN,122400
+Ciparay,IDN,111500
+Depok,IDN,106800
+Salatiga,IDN,103000
+Mojokerto,IDN,96626
+Kendari,IDN,94800
+Majalaya,IDN,93200
+Batam,IDN,91871
+Banyuwangi,IDN,89900
+"Calcutta [Kolkata]",IND,4399819
+Ahmedabad,IND,2876710
+Lucknow,IND,1619115
+Jaipur,IND,1458483
+"Vadodara (Baroda)",IND,1031346
+"Haora (Howrah)",IND,950435
+Agra,IND,891790
+Allahabad,IND,792858
+Amritsar,IND,708835
+Gwalior,IND,690765
+"Solapur (Sholapur)",IND,604215
+"Guwahati (Gauhati)",IND,584342
+Kota,IND,537371
+"Jalandhar (Jullundur)",IND,509510
+Aligarh,IND,480520
+Ghaziabad,IND,454156
+Durgapur,IND,425836
+Bikaner,IND,416289
+Ajmer,IND,402700
+Bhilai,IND,386159
+Salem,IND,366712
+Jamnagar,IND,341637
+Rajahmundry,IND,324851
+"New Bombay",IND,307297
+Jhansi,IND,300850
+"Dhule (Dhulia)",IND,278317
+"Dehra Dun",IND,270159
+Asansol,IND,262188
+Rampur,IND,243742
+Nizamabad,IND,241034
+Kurnool,IND,236800
+"South Dum Dum",IND,232811
+Darbhanga,IND,218391
+Ambattur,IND,215424
+Jammu,IND,214737
+Brahmapur,IND,210418
+"Bihar Sharif",IND,201323
+Latur,IND,197408
+Parbhani,IND,190255
+Kukatpalle,IND,185378
+Avadi,IND,183215
+Bilaspur,IND,179833
+Vellore,IND,175061
+Anantapur,IND,174924
+Burhanpur,IND,172710
+Mirzapur-cum-Vindhyachal,IND,169336
+"Murwara (Katni)",IND,163431
+Erode,IND,159232
+Agartala,IND,157358
+"Lalbahadur Nagar",IND,155500
+Cuddalore,IND,153086
+Raiganj,IND,151045
+Kanchipuram,IND,150100
+Bharatpur,IND,148519
+Morena,IND,147124
+Bhusawal,IND,145143
+Tenali,IND,143726
+Kumbakonam,IND,139483
+Serampore,IND,137028
+"Maunath Bhanjan",IND,136697
+Bahraich,IND,135400
+Chittoor,IND,133462
+Shillong,IND,131719
+"Rae Bareli",IND,129904
+Bulandshahr,IND,127201
+"Midnapore (Medinipur)",IND,125498
+Puri,IND,125199
+Korba,IND,124501
+Gandhinagar,IND,123359
+Hoshiarpur,IND,122705
+Cuddapah,IND,121463
+Chandannagar,IND,120378
+Balurghat,IND,119796
+Mahbubnagar,IND,116833
+"Berhampore (Baharampur)",IND,115144
+Rajapalaiyam,IND,114202
+"Bhir (Bid)",IND,112434
+Mango,IND,110024
+Tiruvannamalai,IND,109196
+Moga,IND,108304
+Unnao,IND,107425
+Abohar,IND,107163
+Surendranagar,IND,105973
+Hindupur,IND,104651
+Wardha,IND,102985
+Modinagar,IND,101660
+Ongole,IND,100836
+Haldia,IND,100347
+Champdani,IND,98818
+Sasaram,IND,98220
+Godhra,IND,96813
+Achalpur,IND,96216
+Satara,IND,95133
+"Delhi Cantonment",IND,94326
+"Kanpur Cantonment",IND,93109
+Purulia,IND,92574
+Morvi,IND,90357
+Baghdad,IRQ,4336000
+Basra,IRQ,406296
+Karbala,IRQ,296705
+al-Diwaniya,IRQ,196519
+Baquba,IRQ,114516
+Tabriz,IRN,1191043
+Ahvaz,IRN,804980
+Zahedan,IRN,419518
+Kerman,IRN,384991
+Qazvin,IRN,291117
+Bandar-e-Abbas,IRN,273578
+Abadan,IRN,206073
+Sari,IRN,195882
+Khomeynishahr,IRN,165888
+Babol,IRN,158346
+Qaemshahr,IRN,143286
+Sirjan,IRN,135024
+Ilam,IRN,126346
+Saqqez,IRN,115394
+Varamin,IRN,107233
+Shahrud,IRN,104765
+"Bandar-e Anzali",IRN,98500
+"Torbat-e Heydariyeh",IRN,94600
+Qomsheh,IRN,89800
+ReykjavÃ­k,ISL,109184
+"Rishon Le Ziyyon",ISR,188200
+"Petah Tiqwa",ISR,159400
+"Bene Beraq",ISR,133900
+Rehovot,ISR,90300
+Torino,ITA,903705
+Bologna,ITA,381161
+Venezia,ITA,277305
+Trieste,ITA,216459
+"Reggio di Calabria",ITA,179617
+Parma,ITA,168717
+Foggia,ITA,154891
+Ravenna,ITA,138418
+Sassari,ITA,120803
+Pescara,ITA,115698
+ForlÃ¬,ITA,107475
+Piacenza,ITA,98384
+Catanzaro,ITA,96700
+"Torre del Greco",ITA,94505
+Pisa,ITA,92379
+Alessandria,ITA,90289
+Wien,AUT,1608144
+Salzburg,AUT,144247
+Kingston,JAM,103962
+"Jokohama [Yokohama]",JPN,3339594
+Kioto,JPN,1461974
+Kawasaki,JPN,1217359
+Chiba,JPN,863930
+Okayama,JPN,624269
+Funabashi,JPN,545299
+Niigata,JPN,497464
+Urawa,JPN,469675
+Kanazawa,JPN,455386
+Utsunomiya,JPN,440353
+Yokosuka,JPN,430200
+Nishinomiya,JPN,397618
+Fukuyama,JPN,376921
+Nara,JPN,362812
+Nagano,JPN,361391
+Takamatsu,JPN,332471
+Kawagoe,JPN,327211
+Kashiwa,JPN,320296
+Koshigaya,JPN,301446
+Akashi,JPN,292253
+Morioka,JPN,287353
+Ichihara,JPN,279280
+Tokushima,JPN,269649
+Shimonoseki,JPN,257263
+Hiratsuka,JPN,254207
+Takasaki,JPN,239124
+Fuji,JPN,231527
+Atsugi,JPN,212407
+Yamato,JPN,208234
+Kasukabe,JPN,201838
+Kofu,JPN,199753
+Nagaoka,JPN,192407
+Suzuka,JPN,184061
+Takaoka,JPN,174380
+Saga,JPN,170034
+Izumi,JPN,166979
+Ashikaga,JPN,165243
+Tsukuba,JPN,160768
+Moriguchi,JPN,155941
+Oyama,JPN,152820
+Kawanishi,JPN,149794
+Tottori,JPN,147523
+Ota,JPN,145317
+Kadoma,JPN,138953
+Yonago,JPN,136461
+Joetsu,JPN,133505
+Kakamigahara,JPN,131831
+Urayasu,JPN,127550
+Minoo,JPN,127026
+Tondabayashi,JPN,125094
+Matsusaka,JPN,123582
+Noda,JPN,121030
+Kawachinagano,JPN,119666
+Habikino,JPN,118968
+Kiryu,JPN,118326
+Ebina,JPN,115571
+Ikoma,JPN,111645
+Mishima,JPN,109699
+Komatsu,JPN,107937
+Kokubunji,JPN,106996
+Kusatsu,JPN,106232
+Toda,JPN,103969
+Fukaya,JPN,102156
+Kamagaya,JPN,100821
+Nishio,JPN,100032
+Isehara,JPN,98123
+Urasoe,JPN,96002
+Maizuru,JPN,94784
+Kimitsu,JPN,93216
+Kameoka,JPN,92398
+Kashiwazaki,JPN,91229
+Taizz,YEM,317600
+Ibb,YEM,103300
+al-Rusayfa,JOR,137247
+Beograd,YUG,1204000
+Kragujevac,YUG,147305
+Prizren,YUG,92303
+Douala,CMR,1448300
+Maroua,CMR,143000
+MontrÃ©al,CAN,1016376
+"North York",CAN,622632
+Scarborough,CAN,594501
+London,CAN,339917
+Surrey,CAN,304477
+Saskatoon,CAN,193647
+Burnaby,CAN,179209
+Richmond,CAN,148867
+Oakville,CAN,139192
+"Richmond Hill",CAN,116428
+"East York",CAN,114034
+Gloucester,CAN,107314
+Coquitlam,CAN,101820
+Delta,CAN,95411
+Praia,CPV,94800
+Shymkent,KAZ,360100
+Pavlodar,KAZ,300500
+Qostanay,KAZ,221400
+Qyzylorda,KAZ,157400
+Ekibastuz,KAZ,127200
+Zhezqazghan,KAZ,90000
+Kisumu,KEN,192733
+Meru,KEN,94947
+Shanghai,CHN,9696300
+Wuhan,CHN,4344600
+"Kanton [Guangzhou]",CHN,4256300
+XiÂ´an,CHN,2761400
+Jinan,CHN,2278100
+Taiyuan,CHN,1968400
+Nanchang,CHN,1691600
+Ningbo,CHN,1371200
+Anshan,CHN,1200000
+Qiqihar,CHN,1070000
+Baotou,CHN,980000
+Wuxi,CHN,830000
+Yichun,CHN,800000
+Xining,CHN,700200
+Daqing,CHN,660000
+Shantou,CHN,580000
+Yinchuan,CHN,544500
+Hegang,CHN,520000
+Liaoyang,CHN,492559
+Xinxiang,CHN,473762
+Yantai,CHN,452127
+Wuhu,CHN,425740
+Anyang,CHN,420332
+Zhuzhou,CHN,409924
+Zhangjiang,CHN,400997
+Yakeshi,CHN,377869
+Huaibei,CHN,366549
+Panjin,CHN,362773
+Liaoyuan,CHN,354141
+Chifeng,CHN,350077
+Leshan,CHN,341128
+Siping,CHN,317223
+Chaozhou,CHN,313469
+Foshan,CHN,303160
+Changde,CHN,301276
+Dongying,CHN,281728
+Jingdezhen,CHN,281183
+Tieli,CHN,265683
+Mianyang,CHN,262947
+Neijiang,CHN,256012
+Wafangdian,CHN,251733
+Chengde,CHN,246799
+Cangzhou,CHN,242708
+Yanji,CHN,230892
+Suihua,CHN,227881
+Ganzhou,CHN,220129
+Shangzi,CHN,215373
+Jiangyin,CHN,213659
+Wuzhou,CHN,210452
+Haicheng,CHN,205560
+BeiÂ´an,CHN,204899
+Acheng,CHN,197595
+Zhaoqing,CHN,194784
+Xinyang,CHN,192509
+Honghu,CHN,190772
+Linfen,CHN,187309
+Quanzhou,CHN,185154
+Changshu,CHN,181805
+Nanchong,CHN,180273
+Fuyang,CHN,179572
+Ghulja,CHN,177193
+Jiangyou,CHN,175753
+Fuling,CHN,173878
+Chenzhou,CHN,169400
+Zhuhai,CHN,164747
+Xiaoshan,CHN,162930
+Hami,CHN,161315
+Ulanhot,CHN,159538
+RuiÂ´an,CHN,156468
+Taizhou,CHN,152442
+Taonan,CHN,150168
+Langfang,CHN,148105
+Yulin,CHN,144467
+Suizhou,CHN,142302
+Longjing,CHN,139417
+Xianning,CHN,136811
+Jincheng,CHN,136396
+Hailun,CHN,133565
+Wuwei,CHN,133101
+Changji,CHN,132260
+Tiefa,CHN,131807
+Weihai,CHN,128888
+Qidong,CHN,126872
+Kaiyuan,CHN,124219
+Laohekou,CHN,123366
+Jiaonan,CHN,121397
+Manzhouli,CHN,120023
+Puqi,CHN,117264
+Renqiu,CHN,114256
+YanÂ´an,CHN,113277
+Quzhou,CHN,112373
+Yizheng,CHN,109268
+Yuncheng,CHN,108359
+Bozhou,CHN,106346
+Suqian,CHN,105021
+Fujin,CHN,103104
+Huangshan,CHN,102628
+Haining,CHN,100478
+Xinzhou,CHN,98667
+YaÂ´an,CHN,95900
+Enshi,CHN,93056
+Tumen,CHN,91471
+"Xilin Hot",CHN,90646
+Pingyi,CHN,89373
+Osh,KGZ,222700
+Cali,COL,2077386
+Cartagena,COL,805757
+Pereira,COL,381725
+Bello,COL,333470
+Armenia,COL,288977
+Valledupar,COL,263247
+Buenaventura,COL,224336
+PopayÃ¡n,COL,200719
+Envigado,COL,135848
+Buga,COL,110699
+Sogamoso,COL,107728
+Brazzaville,COG,950000
+Mbuji-Mayi,COD,806475
+Kananga,COD,393030
+Tshikapa,COD,180860
+Mwene-Ditu,COD,137459
+Goma,COD,109094
+"West Island",CCK,167
+Nampo,PRK,566200
+Phyongsong,PRK,272934
+Kimchaek,PRK,179000
+Seoul,KOR,9981619
+Taejon,KOR,1425835
+Songnam,KOR,869094
+Chonju,KOR,563153
+Ansan,KOR,510314
+Kwangmyong,KOR,350914
+Iksan,KOR,322685
+Kyongju,KOR,272968
+Kimhae,KOR,256370
+Wonju,KOR,237460
+Namyangju,KOR,229060
+Yosu,KOR,183596
+Yangsan,KOR,163351
+Kimchon,KOR,147027
+Chong-up,KOR,139111
+Tong-yong,KOR,131717
+Chinhae,KOR,125997
+Miryang,KOR,121501
+Yongchon,KOR,113511
+Namwon,KOR,103544
+Athenai,GRC,772072
+Peristerion,GRC,137288
+Larisa,GRC,113090
+Osijek,HRV,104761
+CamagÃ¼ey,CUB,298726
+"Pinar del RÃ­o",CUB,142100
+"Victoria de las Tunas",CUB,132350
+"Ciego de Ãvila",CUB,98505
+Kuwait,KWT,28859
+Savannakhet,LAO,96652
+Liepaja,LVA,89439
+Monrovia,LBR,850000
+Misrata,LBY,121669
+Vilnius,LTU,577969
+Å iauliai,LTU,146563
+Macao,MAC,437500
+AntsirabÃ©,MDG,120239
+Blantyre,MWI,478155
+"Kuala Lumpur",MYS,1297526
+Kelang,MYS,243355
+"Kota Bharu",MYS,219582
+Kuching,MYS,148059
+"Alor Setar",MYS,124412
+Bamako,MLI,809552
+Casablanca,MAR,2940623
+Tanger,MAR,521735
+Oujda,MAR,365382
+Agadir,MAR,155244
+Beni-Mellal,MAR,140212
+"Ksar el Kebir",MAR,107065
+"El Araich",MAR,90400
+NouÃ¢dhibou,MRT,97600
+Vacoas-Phoenix,MUS,98464
+"Ecatepec de Morelos",MEX,1620303
+JuÃ¡rez,MEX,1217818
+Zapopan,MEX,1002239
+CuliacÃ¡n,MEX,744859
+Chihuahua,MEX,670208
+Toluca,MEX,665617
+Hermosillo,MEX,608697
+"Centro (Villahermosa)",MEX,519873
+Tlaquepaque,MEX,475472
+"CuautitlÃ¡n Izcalli",MEX,452976
+Reynosa,MEX,419776
+Xalapa,MEX,390058
+Ahome,MEX,358663
+TonalÃ¡,MEX,336109
+Tampico,MEX,294789
+Guasave,MEX,277201
+Coatzacoalcos,MEX,267037
+"Oaxaca de JuÃ¡rez",MEX,256848
+Salamanca,MEX,226864
+Chalco,MEX,222201
+"OthÃ³n P. Blanco (Chetumal)",MEX,208014
+Metepec,MEX,194265
+"Puerto Vallarta",MEX,183741
+"Soledad de Graciano SÃ¡nchez",MEX,179956
+TecÃ¡mac,MEX,172410
+"LÃ¡zaro CÃ¡rdenas",MEX,170878
+Zamora,MEX,161191
+Cuautla,MEX,153132
+Navolato,MEX,145396
+"San AndrÃ©s Tuxtla",MEX,142251
+"Boca del RÃ­o",MEX,135721
+Macuspana,MEX,133795
+Guaymas,MEX,130108
+"Lagos de Moreno",MEX,127949
+"San Pedro Garza GarcÃ­a",MEX,126147
+"Iguala de la Independencia",MEX,123883
+Zinacantepec,MEX,121715
+"MartÃ­nez de la Torre",MEX,118815
+Delicias,MEX,116132
+Lerdo,MEX,112272
+Guadalupe,MEX,108881
+"Los Cabos",MEX,105199
+Temapache,MEX,102824
+"San Francisco del RincÃ³n",MEX,100149
+Lerma,MEX,99714
+Cosoleacaque,MEX,97199
+"San Felipe",MEX,95305
+Salvatierra,MEX,94322
+PÃ¡nuco,MEX,90551
+Weno,FSM,22000
+Balti,MDA,153400
+Monaco-Ville,MCO,1234
+Matola,MOZ,424662
+Chimoio,MOZ,171056
+Tete,MOZ,101984
+Maxixe,MOZ,93985
+"Pegu (Bago)",MMR,190900
+"Sittwe (Akyab)",MMR,137600
+"Lashio (Lasho)",MMR,107600
+Myingyan,MMR,103600
+Yangor,NRU,4050
+Biratnagar,NPL,157764
+Managua,NIC,959000
+Masaya,NIC,88971
+Lagos,NGA,1518000
+Kano,NGA,674100
+"Port Harcourt",NGA,410000
+Onitsha,NGA,371900
+Kaduna,NGA,342200
+Enugu,NGA,316100
+Ila,NGA,264000
+"Benin City",NGA,229400
+Sokoto,NGA,204900
+Ikorodu,NGA,184900
+Shaki,NGA,174500
+Akure,NGA,162300
+Kumo,NGA,148000
+Ikare,NGA,140800
+Warri,NGA,126100
+Makurdi,NGA,123100
+Awka,NGA,111200
+Ejigbo,NGA,105900
+Epe,NGA,101000
+Oslo,NOR,508726
+BÃ¦rum,NOR,101340
+Yamoussoukro,CIV,130000
+Salala,OMN,131813
+Masqat,OMN,51969
+Rawalpindi,PAK,1406214
+Gujranwala,PAK,1124749
+Sargodha,PAK,455360
+Sukkur,PAK,329176
+Gujrat,PAK,250121
+"Rahim Yar Khan",PAK,228479
+"Dera Ghazi Khan",PAK,188100
+Mingora,PAK,174500
+Jhelum,PAK,145800
+Shikarpur,PAK,133300
+Muzaffargarh,PAK,121600
+Bahawalnagar,PAK,109600
+"Tando Adam",PAK,103400
+"Chishtian Mandi",PAK,101700
+"Ahmadpur East",PAK,96000
+Vihari,PAK,92300
+Koror,PLW,12000
+"Port Moresby",PNG,247000
+LambarÃ©,PRY,99681
+Arequipa,PER,762000
+Iquitos,PER,367000
+Piura,PER,325000
+Ica,PER,194820
+HuÃ¡nuco,PER,129688
+Puno,PER,101578
+Adamstown,PCN,42
+Amadora,PRT,122106
+"San Juan",PRI,434374
+Caguas,PRI,140502
+MayagÃ¼ez,PRI,98434
+KrakÃ³w,POL,738150
+Gdansk,POL,458988
+Katowice,POL,345934
+Gdynia,POL,253521
+Gliwice,POL,212164
+Zabrze,POL,200177
+"Ruda Slaska",POL,159665
+Tychy,POL,133178
+Opole,POL,129553
+ChorzÃ³w,POL,121708
+Legnica,POL,109335
+Slupsk,POL,102370
+Malabo,GNQ,40000
+Marseille,FRA,798430
+Nantes,FRA,270251
+Bordeaux,FRA,215363
+Lille,FRA,184657
+Grenoble,FRA,153317
+"Le Mans",FRA,146105
+Aix-en-Provence,FRA,134222
+Villeurbanne,FRA,124215
+Caen,FRA,113987
+Boulogne-Billancourt,FRA,106367
+Roubaix,FRA,96984
+Cayenne,GUF,50699
+Saint-Denis,REU,131480
+Cluj-Napoca,ROM,332498
+Brasov,ROM,314225
+Oradea,ROM,222239
+Arad,ROM,184408
+Buzau,ROM,148372
+"Piatra Neamt",ROM,125070
+TÃ¢rgoviste,ROM,98980
+Tulcea,ROM,96278
+"Gothenburg [GÃ¶teborg]",SWE,466990
+LinkÃ¶ping,SWE,133168
+Helsingborg,SWE,117737
+Lund,SWE,98948
+Jamestown,SHN,1500
+Kingstown,VCT,17100
+"Munich [MÃ¼nchen]",DEU,1194560
+Essen,DEU,599515
+Bremen,DEU,540330
+Leipzig,DEU,489532
+Wuppertal,DEU,368993
+Bonn,DEU,301048
+MÃ¼nster,DEU,264670
+Augsburg,DEU,254867
+Krefeld,DEU,241769
+Oberhausen,DEU,222349
+"Freiburg im Breisgau",DEU,202455
+SaarbrÃ¼cken,DEU,183836
+"MÃ¼lheim an der Ruhr",DEU,173895
+"Ludwigshafen am Rhein",DEU,163771
+Heidelberg,DEU,139672
+Potsdam,DEU,128983
+GÃ¶ttingen,DEU,124775
+Bottrop,DEU,121097
+"Offenbach am Main",DEU,116627
+Gera,DEU,114718
+FÃ¼rth,DEU,109771
+Moers,DEU,106837
+Witten,DEU,103384
+Kaiserslautern,DEU,100025
+GÃ¼tersloh,DEU,95028
+DÃ¼ren,DEU,91092
+Honiara,SLB,50100
+Kitwe,ZMB,288600
+Luanshya,ZMB,118100
+"San Marino",SMR,2294
+Mekka,SAU,965700
+al-Taif,SAU,416100
+al-Mubarraz,SAU,219100
+al-Kharj,SAU,152100
+al-Tuqba,SAU,125700
+AraÂ´ar,SAU,108100
+Najran,SAU,91000
+ThiÃ¨s,SEN,248000
+Saint-Louis,SEN,132400
+Victoria,SYC,41000
+KoÅ¡ice,SVK,241874
+Maribor,SVN,115532
+Colombo,LKA,645000
+Jaffna,LKA,149000
+Omdurman,SDN,1271403
+"Port Sudan",SDN,308195
+"Wad Madani",SDN,211362
+al-Fashir,SDN,141884
+Tampere,FIN,195468
+Oulu,FIN,120753
+ZÃ¼rich,CHE,336800
+Bern,CHE,122700
+Hims,SYR,507404
+al-Qamishliya,SYR,144286
+al-Raqqa,SYR,108020
+Khujand,TJK,161500
+Tainan,TWN,728060
+"Keelung (Chilung)",TWN,385201
+Chungli,TWN,318649
+Chiayi,TWN,265109
+Tucheng,TWN,224897
+Pingchen,TWN,188344
+Fengyuan,TWN,161032
+Shulin,TWN,151260
+Kueishan,TWN,112195
+Hualien,TWN,108407
+Tsaotun,TWN,96800
+Miaoli,TWN,90000
+Zanzibar,TZA,157634
+Morogoro,TZA,117800
+KÃ¸benhavn,DNK,495699
+Aalborg,DNK,161161
+"Nakhon Ratchasima",THA,181400
+"Hat Yai",THA,148632
+"Ubon Ratchathani",THA,116300
+LomÃ©,TGO,375000
+Port-of-Spain,TTO,43396
+Praha,CZE,1181126
+Olomouc,CZE,102702
+"Hradec KrÃ¡lovÃ©",CZE,98080
+Sfax,TUN,257800
+Sousse,TUN,145900
+Istanbul,TUR,8787958
+Adana,TUR,1131198
+"Mersin (IÃ§el)",TUR,587212
+Kayseri,TUR,475657
+Malatya,TUR,330312
+Sivas,TUR,246642
+ElÃ¢zig,TUR,228815
+"Izmit (Kocaeli)",TUR,210068
+"Sakarya (Adapazari)",TUR,190641
+Ã‡orum,TUR,145495
+Adiyaman,TUR,141529
+Aydin,TUR,128651
+Isparta,TUR,121911
+Alanya,TUR,117300
+Viransehir,TUR,106400
+Afyon,TUR,103984
+Bismil,TUR,101400
+Kars,TUR,93000
+ChÃ¤rjew,TKM,189200
+"Cockburn Town",TCA,4800
+"Harkova [Harkiv]",UKR,1500000
+Odesa,UKR,1011000
+Mykolajiv,UKR,508000
+Vinnytsja,UKR,391000
+Simferopol,UKR,339000
+TÅ¡erkasy,UKR,309000
+Dniprodzerzynsk,UKR,270000
+TÅ¡ernivtsi,UKR,259000
+Ternopil,UKR,236000
+Kramatorsk,UKR,186000
+Berdjansk,UKR,130000
+Slovjansk,UKR,127000
+Jevpatorija,UKR,112000
+"Krasnyi LutÅ¡",UKR,101000
+Kostjantynivka,UKR,95000
+Å ostka,UKR,90000
+Budapest,HUN,1811552
+Szeged,HUN,158158
+KecskemÃ©t,HUN,105606
+NoumÃ©a,NCL,76293
+"North Shore",NZL,187700
+Dunedin,NZL,119600

@@ -1,6 +1,6 @@
 <h1>Applicant Guide</h1>
 
-<h2>Part A: Coding Excerise </h2>
+<h2>Part A: Coding Exercise </h2>
 
 There are three source files. **CityListA.json**, **CityListB.avro**, and **CityListC.csv**.
 They each contain data in three columns:

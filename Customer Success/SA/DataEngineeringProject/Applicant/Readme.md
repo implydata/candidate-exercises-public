@@ -23,10 +23,10 @@ Your deliverable should be the following:
   * The dataset generated
   * Answers to the previous questions
 
-<h1>Part B: Case Study</h1>
+<h2>Part B: Case Study</h2>
 In this exercise we will provide you with a set of customer requirements for Koala Maximization, Ltd. ("Koala" for short), the company that operates the popular web property http://koalastothemax.com/. Your goal will be to suggest how they can deploy Imply to best meet their needs.
 
-<h2>Customer requirements</h2>
+<h3>Customer requirements</h3>
 Koala has a dataset composed of visits to their web site, annotated with session ID, path visited, and attributes about the visitor like "city" and "browser". They want to build dashboards based on this dataset as well as be able to explore this dataset interactively.
 
 An example data point for a single hit is below:
@@ -66,7 +66,7 @@ The most important kind of analysis Koala needs to do is counting how many uniqu
 64GB memory
 600GB SSD disk
 
-<h2>Your recommendation</h2>
+<h3>Your recommendation</h3>
 Your challenge is to write a recommendation for Koala hitting the following points:
 
   * How many servers will be necessary for an analytics cluster for one year of this dataset
@@ -75,7 +75,7 @@ Your challenge is to write a recommendation for Koala hitting the following poin
 
 Some aspects of your recommendation will need to be based on guesswork. This is totally normal, even for a real customer engagement! Whenever you are guessing, please point out what assumptions you made, and what additional information you would need in order to refine your guess.
 
-<h2>Evaluation</h2>
+<h3>Evaluation</h3>
 
 Like the coding challenge, it is much more important to have a reasonable recommendation for each point that to have the best possible recommendation. We are not looking for perfection. Rather, we are looking for a good starting point that could be improved with more research.
 

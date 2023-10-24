@@ -1,6 +1,30 @@
 <h1>Sales Engineering - Applicant Guide</h1>
 
-<h2>Part A: Coding Excerise </h2>
+<h2>Part A: Architecture and User Scenarios</h2>
+
+<h3>Data Analytics Scenario:</h3>
+
+Scenario: A retail e-commerce company wants to improve its customer retention. They have a massive dataset containing customer interactions, purchase history, and demographics. How would you design an analytics solution to identify key factors influencing customer churn and recommend strategies to reduce it? 
+
+<h3>Data Engineering Scenario:</h3>
+
+Scenario: A global manufacturing company needs to integrate data from multiple manufacturing plants worldwide, each with different data formats and systems. They also want to implement real-time monitoring of production data. How would you design an end-to-end data engineering solution to consolidate and process this data efficiently and provide real-time insights to plant managers?
+
+<h3>Data Warehousing Scenario:</h3>
+
+Scenario: A healthcare organization wants to create a centralized data warehouse to store patient records, medical images, and operational data from various hospitals and clinics. They require the ability to efficiently query patient history, support complex reporting, and ensure data security and compliance. How would you design the architecture and data model for this healthcare data warehouse?
+
+<h3>Performance Optimization Scenario:</h3>
+
+Scenario: A popular social media platform experiences significant performance issues with its analytics dashboard, which is slow and unresponsive during peak usage times. How would you address the performance bottlenecks and design an optimized architecture to ensure fast and scalable analytics for users and advertisers?
+
+<h3>Big Data and Scaling Scenario:</h3>
+
+- Scenario 1: A streaming video service wants to implement a recommendation engine that can handle the growing user base and data load. They have millions of users generating real-time data. How would you architect a scalable system that can process and analyze this data to provide personalized content recommendations efficiently?
+  
+- Scenario 2: A large social media site wants to provide more accurate counts of likes, views/impressions and shares of posts on their site. There can be thousands of such interactions on each post per second (especially if they are posts by popular celebraties). The site uses a batch process to update these counts at a global level, but would like to replace the current architecture with a more near real time architectue, with use of streaming technologies. How would you go about architecting this?
+
+<h2>Part B: Coding Excerise </h2>
 
 There are three source files. **CityListA.json**, **CityListB.avro**, and **CityListC.csv**.
 They each contain data in three columns:
@@ -23,7 +47,7 @@ Your deliverable should be the following:
   * The dataset generated
   * Answers to the previous questions
 
-<h1>Part B: Case Study</h1>
+<h1>Part C: Case Study</h1>
 In this exercise we will provide you with a set of customer requirements for Koala Maximization, Ltd. ("Koala" for short), the company that operates the popular web property http://koalastothemax.com/. Your goal will be to suggest how they can deploy Imply to best meet their needs.
 
 <h2>Customer requirements</h2>

@@ -72,7 +72,11 @@ Steps to execute:
     - **Distance vs. Fare**: Analyze the relationship between trip_distance and fare_amount, and determine whether there's a correlation.
     - **Time Series Analysis**: Analyze the time series data for trip counts, fare amounts, or tip amounts, and identify any trends or seasonality.
 
+**Please note that if you attempt this either with [Druid open source](https://druid.apache.org/docs/latest/tutorials/) or with [Imply Polaris](https://imply.io/imply-fully-managed-dbaas-polaris/), you will get additional brownie points during the evaluation.**
+
 <h3>Complex</h3>
+
+<<< TBD >>>
 
 <h1>Part C: Case Study</h1>
 In this exercise we will provide you with a set of customer requirements for Koala Maximization, Ltd. ("Koala" for short), the company that operates the popular web property http://koalastothemax.com/. Your goal will be to suggest how they can deploy Imply to best meet their needs.
